@@ -1,15 +1,15 @@
 {
-  "name": "nyao",
-  "description": "The open-source chat application for developers.",
+  "name": "Chat Diplom",
+  "description": "My Project",
   "author": {
-    "name": "Gerard Rovira Sánchez",
-    "email": "zurfyx@gmail.com",
-    "url": "zurfyx.com"
+    "name": "Zheenykaa",
+    "email": "kiptenko1608@gmail.com",
+    "url": "http://chat-bakalavr.tk/"
   },
   "version": "0.9.0-alpha",
-  "repository": "https://github.com/zurfyx/nyao",
+  "repository": "https://github.com/kiptenko/chdil.github.io",
   "keywords": [
-    "nyao",
+    "Chat",
     "chat",
     "real time",
     "developers",
