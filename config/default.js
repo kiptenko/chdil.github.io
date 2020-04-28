@@ -12,7 +12,7 @@ module.exports = {
     session: {
       host: 'localhost',
       port: 6379,
-      prefix: 'nyao_',
+      prefix: 'Chatix',
     },
   },
 
